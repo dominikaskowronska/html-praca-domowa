@@ -1,0 +1,51 @@
+
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right:auto;/*marginesy*/
+}
+#logo
+{
+	background-color: black;
+	text-align: center; /*wyśrodkowaie*/
+	padding:15px;  /*oddzielenie od tła*/
+	color: green;
+}
+#nav
+{
+	float: left;
+	background-color: lightgray;
+	width: 120px;
+	min-height: 620px;
+	padding:10px;
+	color: black;
+	
+}
+#content
+{
+	float: left;
+	padding: 20px;
+	width: 640 px;
+	text-align: center;
+	
+}
+#ad
+{
+	float: left; 
+	width: 160 px;
+	min-heightheight: 620px;
+	padding:10 px;
+	background-color: black;	
+}
+
+#footer
+{
+	clear: both;
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	
+}

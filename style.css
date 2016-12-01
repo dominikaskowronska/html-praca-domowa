@@ -1,0 +1,20 @@
+body
+{
+	background-color: grey;
+	font-family: Verdana;
+	font-size: 15px;
+	color: white;
+}
+
+h2
+{
+	font-size: 25px;
+	color: green;
+}
+
+
+/*link po najechaniu kursorem*/
+a:hover
+{
+	color: white;
+}
